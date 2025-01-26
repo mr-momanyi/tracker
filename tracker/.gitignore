@@ -1,0 +1,20 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__
+
+# Virtual environment
+venv/
+
+# Django migration files
+*.log
+*.pot
+*.pyc
+*.pyo
+__pycache__/
+
+# Environment variables
+.env
+
+# Database
+db.sqlite3
